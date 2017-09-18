@@ -1,0 +1,19 @@
+# Bendición Matrimonial
+
+<p style="text-align:center"><em>Lo siguiente es una bendición que puede usar al final de su servicio de bodas</em></p>
+
+Que su matrimonio les traiga toda la satisfacción que un matrimonio debe traer, y que el Señor les de paciencia, tolerancia y comprensión. Que su boda esté llena de gozo y risas, de consuelo y apoyo. Que puedan descubrir a verdadera profundidad del amor por medio de ser amado.
+
+Recuerden que cada carga es más fácil de llevar cuando tiene los hombros de dos personas. Cuando estén preocupados y desanimados, busquen a Jesús para que los renueve y fortalezca.
+
+Que siempre se necesiten el uno al otro, no tanto para llenar el vacío, como para ayudarse a conocer todo lo que tiene cada uno. Que siempre se necesiten el uno al otro, pero no por debilidad. Alégrense y haláguense mutuamente por sus particularidades porque Dios es el Creador de ambos varón y hembra y de las diferencias en la personalidad.
+
+Sean fiel el uno al otro en sus pensamientos y hechos y sobre todo sean fieles a Jesús. Que puedan ver el lecho matrimonial como un altar de gracia y placer. Que puedan recordar que cada vez que se hablan el uno al otro le están hablando a alguien que Dios ha reclamado y le ha dicho: “Tú eres muy especial”. Vea y trate a su pareja como uno que fue creado a la imagen de Dios. Recuerde que no está para aprisionar a su pareja, sino para darle libertad para que se convierta en todo lo que Dios desea que él o ella sea. Que puedan entonces abrazarse y sostenerse el uno al otro sin poner un cerco alrededor que los separe el uno del otro.
+
+Que Dios pueda renovar sus mentes para que busquen sacar lo mejor y el mayor potencial el uno del otro. Busquen cosas que alabar, díganse con frecuencia “yo te amo”, y no te fijes en las pequeñas faltas. Apóyense el uno al otro, estén siempre juntos y unidos, y crean en su compañero. Si tienen diferencias que les alejan, que ambos tengan el suficiente sentido común para dar el primer paso. Que las palabras, “Tú tienes razón”, “Perdóname”, y “Yo te perdono” estén presentes.
+
+Gracias, Padre Celestial, por Tu presencia aquí con nosotros y por Tu bendición sobre este matrimonio.
+
+En el nombre de Jesús,
+
+_Amen._
