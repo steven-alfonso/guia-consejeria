@@ -1,0 +1,81 @@
+---
+layout: null
+sitemap: false
+---
+
+$body-background-color: #2B2E31;
+
+$content-max-width: 1100px;
+$content-color: #222;
+$content-background-color: #fff;
+
+$brand-colour: #6CAA43;
+$brand-colour-light: mix($brand-colour, $content-background-color, 10%);
+
+$nav-header-background-color: $brand-colour;
+$nav-header-height: 60px;
+$nav-background-color: #f5f5f5;
+$nav-width: 300px;
+
+$space: 20px;
+
+$mobile-break: 700px;
+$full-width-break: $nav-width + ($space * 4) + $content-max-width;
+
+@import "mixins";
+@import "normalize";
+@import "pygments";
+@import "typography";
+@import "code";
+@import "tables";
+@import "layout";
+
+#titleImg {
+  height: 50px;
+  padding-right: 10px;
+}
+
+#pageImg {
+  height: 100px;
+}
+
+.title-link{
+  text-decoration: none;
+}
+
+.wrapper {
+  display: table;
+
+  ul {
+    display: table-cell;
+    vertical-align: top;
+    width: 600px;
+  }
+  img {
+    display: table-cell;
+    vertical-align: top;
+    width: 100%;
+  }
+
+  .homepageImg {
+    width: 200px;
+  }
+}
+
+.container {
+    width:100%;
+    border:1px solid #d3d3d3;
+}
+.container div {
+    width:100%;
+}
+.container .collapse-header {
+    background-color:#d3d3d3;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.container .collapse-content {
+    padding : 5px;
+}
+
