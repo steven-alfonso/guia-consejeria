@@ -73,15 +73,6 @@
 				<div style="display: inline;">
 					<h2>
 						{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}
-						<a class="title-link" href="{{repository_url}}/edit/master/{{ page.path }}" title="edit this doc on github">
-							<i class="material-icons" style="color: #888;">mode_edit</i>
-						</a>
-						{% if page.category == 'Eden Suite' %}
-						<a class="title-link" href="{{repository_url}}/{{ page.repo }}" title="visit repository on github">
-							<i class="material-icons" style="color: #888;">code</i>
-						</a>
-						{% endif %}
-
 					</h2>
 				</div>
 				<h3>{{page.image}}{{ page.header }}</h3>
