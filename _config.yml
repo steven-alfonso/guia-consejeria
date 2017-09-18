@@ -50,7 +50,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "docs"
+      type: "posts"
     values:
       seo:
         type: Article
