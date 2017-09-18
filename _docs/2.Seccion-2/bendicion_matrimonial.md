@@ -1,3 +1,8 @@
+---
+title:  Bendición Matrimonial
+category: Seccion 2
+---
+
 # Bendición Matrimonial
 
 <p style="text-align:center"><em>Lo siguiente es una bendición que puede usar al final de su servicio de bodas</em></p>
